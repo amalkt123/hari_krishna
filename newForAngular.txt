@@ -1,0 +1,12 @@
+----> npm install ngx-toastr --save
+
+----> npm install @angular/animations --save
+
+<=====> "node_modules/ngx-toastr/toastr.css"
+
+import { ToastrService } from 'ngx-toastr';
+private toastr: ToastrService
+
+----> npm install --save font-awesome angular-font-awesome
+
+<=====> "node_modules/font-awesome/css/font-awesome.css"
